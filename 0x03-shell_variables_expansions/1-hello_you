@@ -1,2 +1,2 @@
 #!/bin/bash
-:wqehco "hello $USER"
+echo "hello $USER"
